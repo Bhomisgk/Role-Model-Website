@@ -1,0 +1,11 @@
+h1{
+    font-size: 38px;
+    font-family: cursive;
+    color: firebrick;
+}
+#image1{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    
+}
